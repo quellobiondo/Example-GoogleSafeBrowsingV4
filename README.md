@@ -5,6 +5,14 @@ This is an example usage of [Google Safe Browsing API](https://developers.google
 
 The code has been developed using the Google API Python Client
 
+### Type of threat
+Google identifies this 5 as type of threat
+- THREAT_TYPE_UNSPECIFIED
+- MALWARE
+- SOCIAL_ENGINEERING
+- UNWANTED_SOFTWARE
+- POTENTIALLY_HARMFUL_APPLICATION
+
 ### Obtaining permissions
 For accounting purposes the requests are authenticated with an API key.
 
